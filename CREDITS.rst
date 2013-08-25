@@ -1,4 +1,4 @@
 Credits
 =======
 
-- TODO started this library
+- 2011-10-20 Mario Frasca started this library
